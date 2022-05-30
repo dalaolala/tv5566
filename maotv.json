@@ -5,7 +5,7 @@
       "name": "快播云",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
+      "playUrl": "https://jx.parwix.com:4433/player/?url=",
       "categories": [
         "国产剧",
         "港台剧",
@@ -29,7 +29,7 @@
       "name":"8090",
       "type":0,
       "api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-      "playUrl":"https://www.nxflv.com/?url=",
+      "playUrl":"https://jx.parwix.com:4433/player/?url=",
       "categories": [
         "动作片",
         "喜剧片",
@@ -58,7 +58,7 @@
       "name": "番茄影視",
       "type": 0,
       "api": "https://tvcj.arbd.cn/api.php/provide/vod/at/xml/",
-      "playUrl": "https://tv.arbd.cn/player/?url=",
+      "playUrl": "https://jx.parwix.com:4433/player/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -78,7 +78,7 @@
       "name": "柚子资源",
       "type": 0,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "playUrl": "",
+      "playUrl": "https://jx.parwix.com:4433/player/?url=",
       "categories": [
         "综艺",
         "动漫",
